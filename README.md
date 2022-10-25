@@ -1,2 +1,2 @@
-# VirtualGazer
+# FutureGazer
 WVC Eye Contact Prototype
